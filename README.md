@@ -1,5 +1,5 @@
 # jarvis
-Personal vice assistant
+Personal voice assistant
 
 
 Installing sound And port audio
